@@ -9,7 +9,7 @@ public class Main {
 		while (i < zbior.length()) {
 
 			for (int j = 0; j < ciag.length(); j++) {
-				System.out.println(i + ": " + j + ": " + c + ": " + count + ": ");
+				//System.out.println(i + ": " + j + ": " + c + ": " + count + ": ");
 
 				if (zbior.charAt(i) == ciag.charAt(j)) {
 					c++;
